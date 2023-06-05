@@ -1,5 +1,5 @@
 .index {
-    background-image: url(img/background.jpg);
+    background-image: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 17%;
@@ -162,7 +162,7 @@ p {
   }
 
   .Benifits{
-    background-image: url(img/benifits.jpg);
+    background-image: url(benifits.jpg);
     padding: 3%;
     background-repeat: no-repeat;
   }.Benifits h2 {
